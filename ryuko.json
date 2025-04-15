@@ -5,14 +5,14 @@
     "notification": true,
     "approval": true,
     "premium": false,
-    "BOTNAME": "",
-    "BOTOWNER": "",
-    "PREFIX": "!",
+    "BOTNAME": "kyō",
+    "BOTOWNER": "Pat",
+    "PREFIX": "+",
     "OPERATOR": [
-        ""
+        "100072403222845"
     ],
     "ADMINBOT": [
-        ""
+        "100072403222845"
     ],
     "disabledcmds": [],
     "disabledevents": [],
